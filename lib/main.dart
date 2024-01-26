@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'gridview_page.dart';
+import 'input_screen.dart';
 
 void main() => runApp(GridviewDemo());
 

@@ -7,7 +7,7 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:gridview_demo/gridview_page.dart';
+import 'package:gridview_demo/input_screen.dart';
 
 import 'package:gridview_demo/main.dart';
 
