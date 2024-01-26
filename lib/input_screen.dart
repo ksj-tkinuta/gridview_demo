@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:gridview_demo/calender_screen.dart';
 
-import 'calender_screen.dart';
 import 'graph_screen.dart';
 import 'grid_screen.dart';
 
@@ -18,7 +18,7 @@ class _GridviewDemoState extends State<GridviewDemo> {
       TextStyle(fontSize: 30, fontWeight: FontWeight.bold);
   static const List<Widget> _widgetOptions = <Widget>[
     GridScreen(),
-    CalendarScreen(), // Calendar Screen Widget
+    CalenderScreen(), // Calendar Screen Widget
     GraphScreen(), // Graph Screen Widget
   ];
 
